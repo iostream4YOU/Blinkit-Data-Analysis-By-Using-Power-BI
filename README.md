@@ -30,4 +30,10 @@ The dashboard focuses on the following primary KPIs:
 4. Medium-sized outlets in Tier 3 locations show the highest profitability
 5. Supermarkets generate higher sales volumes, while grocery stores have better item visibility
 
+#### Sanpshots:
+ 
+![Screenshot 2024-07-30 125023](https://github.com/user-attachments/assets/de2eeea8-757f-4130-9126-94ac8cbb8d04)
+
+![Screenshot 2024-07-30 125119](https://github.com/user-attachments/assets/4c3225b9-4d78-49af-b1e3-4f5150f3a5cf)
+
 **NOTE:** This analysis was conducted as part of a project and is for educational purposes only.
